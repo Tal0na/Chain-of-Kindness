@@ -47,10 +47,6 @@ After installing the dependencies, you can start the application with the follow
 dotnet run
 ```
 
-6. Open a pull request.
-
-Please ensure your code adheres to our [Code of Conduct](#code-of-conduct) and is properly tested.
-
 ## Contact
 
 If you have any questions, suggestions, or feedback, feel free to reach out to us:

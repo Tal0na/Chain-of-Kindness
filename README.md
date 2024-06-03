@@ -53,6 +53,8 @@ If you have any questions, suggestions, or feedback, feel free to reach out to u
 
 - **Email:** contact@chainofkindness.org
 - **Twitter:** [@ChainOfKindness](https://twitter.com/ChainOfKindness)
+  
+## contributing
 
 We look forward to your contributions and thank you for helping to spread kindness!e welcome contributions from everyone. To contribute, please follow these steps:
 

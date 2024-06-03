@@ -1,44 +1,47 @@
-# Code of Conduct
+# Chain of Kindness
 
-## Our Pledge
+Welcome to **Chain of Kindness**, a project dedicated to creating a positive impact by listing and promoting donations of clothes, money, and food. Our goal is to connect those in need with generous donors and to foster a community where acts of kindness are shared and appreciated.
 
-In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to make participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
+## Table of Contents
 
-## Our Standards
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Code of Conduct](#code-of-conduct)
+- [License](#license)
+- [Contact](#contact)
 
-Examples of behavior that contributes to creating a positive environment include:
+## Introduction
 
-* Using welcoming and inclusive language
-* Being respectful of differing viewpoints and experiences
-* Gracefully accepting constructive criticism
-* Focusing on what is best for the community
-* Showing empathy towards other community members
+**Chain of Kindness** is an open-source platform that allows users to list and find donations of various types, including clothes, money, and food. By providing a centralized place for these donations, we aim to streamline the process of giving and receiving help, making it easier for communities to support one another.
 
-Examples of unacceptable behavior by participants include:
+## Features
 
-* The use of sexualized language or imagery and unwelcome sexual attention or advances
-* Trolling, insulting/derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others’ private information, such as a physical or electronic address, without explicit permission
-* Other conduct which could reasonably be considered inappropriate in a professional setting
+- **List Donations:** Users can list donations of clothes, money, and food.
+- **Find Donations:** Users can search for available donations in their area.
+- **User Profiles:** Users can create profiles to manage their donations and track their contributions.
+- **Notifications:** Receive notifications for new donations and updates.
 
-## Our Responsibilities
+## Installation
 
-Project maintainers are responsible for clarifying the standards of acceptable behavior and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behavior.
+To get started with Chain of Kindness, follow these steps:
 
-Project maintainers have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, or to ban temporarily or permanently any contributor for other behaviors that they deem inappropriate, threatening, offensive, or harmful.
+1. **Clone the repository:**
+    ```sh
+    git clone https://github.com/yourusername/chain-of-kindness.git
+    cd chain-of-kindness
+    ```
 
-## Scope
+2. **Install the dependencies:**
+    ```sh
+    dotnet restore
+    ```
 
-This Code of Conduct applies both within project spaces and in public spaces when an individual is representing the project or its community. Examples of representing a project or community include using an official project email address, posting via an official social media account, or acting as an appointed representative at an online or offline event. Representation of a project may be further defined and clarified by project maintainers.
+## Usage
 
-## Enforcement
+After installing the dependencies, you can start the application with the following command:
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at [INSERT EMAIL ADDRESS]. All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.
-
-Project maintainers who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the project’s leadership.
-
-## Attribution
-
-a
-a
+```sh
+dotnet run

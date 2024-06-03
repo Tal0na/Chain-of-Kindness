@@ -9,8 +9,8 @@ Welcome to **Chain of Kindness**, a project dedicated to creating a positive imp
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [Code of Conduct](#code-of-conduct)
-- [License](#license)
+- [Code of Conduct](CODE_OF_CONDUCT.md)
+- [License](LICENSE.md)
 - [Contact](#contact)
 
 ## Introduction

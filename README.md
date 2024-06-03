@@ -71,8 +71,6 @@ We look forward to your contributions and thank you for helping to spread kindne
     git push origin feature/YourFeatureName
     ```
 
-## Contributing
-
 6. Open a pull request.
 
 Please ensure your code adheres to our [Code of Conduct](CODE_OF_CONDUCT.md) and is properly tested.

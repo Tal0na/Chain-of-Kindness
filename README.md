@@ -45,3 +45,47 @@ After installing the dependencies, you can start the application with the follow
 
 ```sh
 dotnet run
+```
+
+6. Open a pull request.
+
+Please ensure your code adheres to our [Code of Conduct](#code-of-conduct) and is properly tested.
+
+## Contact
+
+If you have any questions, suggestions, or feedback, feel free to reach out to us:
+
+- **Email:** contact@chainofkindness.org
+- **Twitter:** [@ChainOfKindness](https://twitter.com/ChainOfKindness)
+
+We look forward to your contributions and thank you for helping to spread kindness!e welcome contributions from everyone. To contribute, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch:
+    ```sh
+    git checkout -b feature/YourFeatureName
+    ```
+3. Make your changes.
+4. Commit your changes:
+    ```sh
+    git commit -m 'Add some feature'
+    ```
+5. Push to the branch:
+    ```sh
+    git push origin feature/YourFeatureName
+    ```
+
+## Contributing
+
+6. Open a pull request.
+
+Please ensure your code adheres to our [Code of Conduct](#code-of-conduct) and is properly tested.
+
+## Contact
+
+If you have any questions, suggestions, or feedback, feel free to reach out to us:
+
+- **Email:** contact@chainofkindness.org
+- **Twitter:** [@ChainOfKindness](https://twitter.com/ChainOfKindness)
+
+We look forward to your contributions and thank you for helping to spread kindness!

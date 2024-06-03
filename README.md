@@ -81,7 +81,7 @@ Please ensure your code adheres to our [Code of Conduct](CODE_OF_CONDUCT.md) and
 
 If you have any questions, suggestions, or feedback, feel free to reach out to us:
 
-- **Email:** contact@chainofkindness.org
-- **Twitter:** [@ChainOfKindness](https://twitter.com/ChainOfKindness)
+- **Email:** talonacontato@gmail.com
+- **Twitter:** [@Talonaa_](https://twitter.com/@Talonaa_)
 
 We look forward to your contributions and thank you for helping to spread kindness!

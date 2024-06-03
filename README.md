@@ -1,5 +1,5 @@
 # tralho-doacao
-imput lista de:
+Imput lista de:
 
 - roupa
 - livro
@@ -9,7 +9,7 @@ imput lista de:
  
  
 # output
-listar/escrever em um .txt
+Listar/escrever em um .txt
 
 - quntidade da soma dinheiro 
 - número de roupas e qual parte

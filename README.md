@@ -79,7 +79,7 @@ We look forward to your contributions and thank you for helping to spread kindne
 
 6. Open a pull request.
 
-Please ensure your code adheres to our [Code of Conduct](#code-of-conduct) and is properly tested.
+Please ensure your code adheres to our [Code of Conduct](CODE_OF_CONDUCT.md) and is properly tested.
 
 ## Contact
 

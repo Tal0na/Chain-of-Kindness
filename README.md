@@ -2,6 +2,8 @@
 
 Welcome to **Chain of Kindness**, a project dedicated to creating a positive impact by listing and promoting donations of clothes, money, and food. Our goal is to connect those in need with generous donors and to foster a community where acts of kindness are shared and appreciated.
 
+<img align="center" height="400" src="https://i.imgur.com/EDfZQfk.png"  />
+
 ## Table of Contents
 
 - [Introduction](#introduction)
